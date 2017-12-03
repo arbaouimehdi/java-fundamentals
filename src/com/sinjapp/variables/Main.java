@@ -1,4 +1,6 @@
-public class Variables {
+package com.sinjapp.variables;
+
+public class Main {
 
   public static void main(String[] args) {
 
